@@ -8,7 +8,7 @@
 
 修改 main.go 中的 Key
 
-> curl -fLO "https://dash.pandoranext.com/data/\<\<KEY>>/license.jwt"
+> `curl -fLO "https://dash.pandoranext.com/data/<<KEY>>/license.jwt"`
 
 将编译文件复制到容器 /opt/app
 
